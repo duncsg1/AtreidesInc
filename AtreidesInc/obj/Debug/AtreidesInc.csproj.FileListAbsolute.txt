@@ -1,0 +1,7 @@
+C:\Users\Duncan\Documents\GitHub\AtreidesInc\AtreidesInc\bin\AtreidesInc.dll
+C:\Users\Duncan\Documents\GitHub\AtreidesInc\AtreidesInc\bin\AtreidesInc.pdb
+C:\Users\Duncan\Documents\GitHub\AtreidesInc\AtreidesInc\bin\EntityFramework.dll
+C:\Users\Duncan\Documents\GitHub\AtreidesInc\AtreidesInc\bin\EntityFramework.xml
+C:\Users\Duncan\Documents\GitHub\AtreidesInc\AtreidesInc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duncan\Documents\GitHub\AtreidesInc\AtreidesInc\obj\Debug\AtreidesInc.dll
+C:\Users\Duncan\Documents\GitHub\AtreidesInc\AtreidesInc\obj\Debug\AtreidesInc.pdb
